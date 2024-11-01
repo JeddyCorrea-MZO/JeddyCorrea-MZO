@@ -1,6 +1,6 @@
 Hey There! 👋
 
-I am a passionate IT enthusiast in the field of Programming | Frontend and Backend | Data Science and self-taught from Brazil 🇧🇷
+I am a passionate IT enthusiast in the field of Programming | Frontend and Backend | Data Science and self-taught from Brazil :🇧🇷:
 
 About me
 
