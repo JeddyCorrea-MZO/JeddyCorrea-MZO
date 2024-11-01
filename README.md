@@ -9,7 +9,7 @@ About me
 - 📫 How to reach me jeddymzo8.datasciencemaster@gmail.com 
 - ⚡ Interests: Sharing and gaining knowledge with Great Masters and Teachers who have a lot to add to Knowledge.
 
-![image](https://github.com/user-attachments/assets/e7338254-0e3b-4ab1-b05a-3f3febcf6575)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,javascript,wordpress,figma,py,gcp,azure,aws,git,github,githubactions,linux,windows,vscode&theme=light)](https://skillicons.dev)
 
 
 <!---
