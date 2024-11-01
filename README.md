@@ -9,7 +9,7 @@ About me
 - 📫 How to reach me jeddymzo8.datasciencemaster@gmail.com 
 - ⚡ Interests: Sharing and gaining knowledge with Great Masters and Teachers who have a lot to add to Knowledge.
 
-javascript html java python 
+[javascript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) [html] java python 
 
 <!---
 JeddyCorrea-MZO/JeddyCorrea-MZO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
