@@ -11,9 +11,7 @@ About me
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,javascript,wordpress,figma,py,gcp,azure,aws,git,github,githubactions,linux,windows,vscode&theme=light)](https://skillicons.dev)
 
-
-https://github.com/jeddycorrea-mzo/github-readme-stats 
-
+[![JeddyCorrea - MZO's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeddyCorrea-MZO)](https://github.com/JeddyCorrea-MZO/github-readme-stats)
 
 <!---
 JeddyCorrea-MZO/JeddyCorrea-MZO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
