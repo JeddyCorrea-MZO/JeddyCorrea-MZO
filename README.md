@@ -12,7 +12,7 @@ About me
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,javascript,wordpress,figma,py,gcp,azure,aws,git,github,githubactions,linux,windows,vscode&theme=light)](https://skillicons.dev)
 
 
-https://github.com/JeddyCorrea-MZO/github-readme-stats https://camo.githubusercontent.com/ba28bbdf8b54946e9f1ee4bc7ad9b26977f064fe24618f622685e208aeee5e30/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374267468656d653d627565667926686964655f626f726465723d74727565
+https://github.com/jeddycorrea-mzo/github-readme-stats 
 
 
 <!---
