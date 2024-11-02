@@ -1,4 +1,4 @@
-Hey There! 👋
+<h1>Hey There! 👋</h1>
 
 I am a passionate IT enthusiast in the field of Programming | Frontend and Backend | Data Science and self-taught from Brazil 🇧🇷
 
