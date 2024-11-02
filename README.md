@@ -2,7 +2,7 @@
 
 I am a passionate IT enthusiast in the field of Programming | Frontend and Backend | Data Science and self-taught from Brazil 🇧🇷
 
-About me
+<h2>About me</h2>
 
 - 👋 Hi, I’m @JeddyCorrea-MZO
 - 👀 I am interested in developing knowledge and sharing information and learning in the main computer and IT languages (C/C++/C#/Java/Python - AI/LLM/Data Science).🧑‍💻📚⚙📊🤖
