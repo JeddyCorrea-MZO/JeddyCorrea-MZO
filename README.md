@@ -13,7 +13,7 @@ About me
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,javascript,wordpress,figma,py,gcp,azure,aws,git,github,githubactions,linux,windows,vscode&theme=light)](https://skillicons.dev)
 
-[![JeddyCorrea - MZO's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeddyCorrea-MZO)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeddyCorrea-MZO&size_weight=1&count_weight=1)
+[![JeddyCorrea - MZO's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeddyCorrea-MZO)](https://github.com/JeddyCorrea-MZO/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeddyCorrea-MZO&size_weight=1&count_weight=1)
 
 <!---
 JeddyCorrea-MZO/JeddyCorrea-MZO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
